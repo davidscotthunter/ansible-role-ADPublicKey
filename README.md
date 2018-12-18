@@ -6,7 +6,7 @@ This role configures authentication of Active Directory users by ssh public keys
 
 [LasLabs: Storing SSH keys in Active Directory for easy deployment](https://blog.laslabs.com/2016/08/storing-ssh-keys-in-active-directory/)
 
-and 2) the correct configuration items are in your sssd.conf file.  If the server has been joined using the ActiveDirectoryJoin role, this is already configured.
+and 2) the correct configuration items are in your sssd.conf file.  If the server has been joined using the ActiveDirectoryJoin role this is already configured.
 
 ## Written By
 David Hunter, 2018
